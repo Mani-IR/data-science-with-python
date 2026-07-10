@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📚 Data Mining Course Exercises | تمرینات درس داده‌کاوی
+# 📚 Data Mining  Exercises | تمرینات  داده‌کاوی
 
 <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/scikit--learn-latest-orange?style=for-the-badge&logo=scikit-learn" />
@@ -11,10 +11,10 @@
 
 ---
 
-## 🌐 Languages | زبان‌ها
+## 🌐 Languages
 
 - 🇬🇧 **English**
-- 🇮🇷 **فارسی (Persian)**
+- 🇮🇷 **(Persian)**
 
 ---
 
