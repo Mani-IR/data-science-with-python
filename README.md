@@ -53,13 +53,13 @@ All exercises use the **Airport Codes Dataset** (`airport-codes.csv`):
 
 ## 🛠️ Technologies Used | تکنولوژی‌های استفاده شده
 
-- **Python** 🐍
-- **pandas** — Data manipulation | دستکاری داده
-- **numpy** — Numerical computing | محاسبات عددی
-- **matplotlib** — Data visualization | مصورسازی داده
-- **seaborn** — Statistical visualization | مصورسازی آماری
-- **scikit-learn** — Machine learning algorithms | الگوریتم‌های یادگیری ماشین
-- **scipy** — Scientific computing | محاسبات علمی
+- **Python** 🐍 
+- **pandas** — Data manipulation                      | دستکاری داده
+- **numpy** — Numerical computing                     | محاسبات عددی
+- **matplotlib** — Data visualization                 | مصورسازی داده
+- **seaborn** — Statistical visualization             | مصورسازی آماری
+- **scikit-learn** — Machine learning algorithms      | الگوریتم‌های یادگیری ماشین
+- **scipy** — Scientific computing                    | محاسبات علمی
 
 ---
 
