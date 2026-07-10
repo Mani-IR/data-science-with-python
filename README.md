@@ -33,9 +33,9 @@ This repository contains a collection of hands-on exercises for the **Data Minin
 | Folder | Topic | موضوع |
 |--------|-------|-------|
 | [`statistical-analysis-visualization/`](./statistical-analysis-visualization) | Statistical Analysis & Data Visualization | تحلیل آماری و مصورسازی داده |
-| [`Exercise2/`](./Exercise2) | Data Preprocessing | پیش‌پردازش داده |
-| [`Exercise3/`](./Exercise3) | Clustering Algorithms Comparison (K-Means vs DBSCAN) | مقایسه الگوریتم‌های خوشه‌بندی (K-Means در مقابل DBSCAN) |
-| [`Exercise4/`](./Exercise4) | Classification (Decision Tree & Naive Bayes) | طبقه‌بندی (درخت تصمیم و Naive Bayes) |
+| [`data-preprocessing/`](./data-preprocessing) | Data Preprocessing | پیش‌پردازش داده |
+| [`clustering-comparison/`](./clustering-comparison) | Clustering Algorithms Comparison (K-Means vs DBSCAN) | مقایسه الگوریتم‌های خوشه‌بندی (K-Means در مقابل DBSCAN) |
+| [`classification-comparison/`](./classification-comparison) | Classification (Decision Tree & Naive Bayes) | طبقه‌بندی (درخت تصمیم و Naive Bayes) |
 
 ---
 
