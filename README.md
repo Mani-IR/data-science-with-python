@@ -125,9 +125,9 @@ Each exercise folder contains: | هر پوشه تمرین شامل:
 
 ---
 
-## 👨‍🎓 Author | نویسنده
+## 👨‍🎓 Author 
 
-**Data Mining Course | درس داده‌کاوی**
+**Data Mining Course**
 
 <div align="center">
 
