@@ -142,6 +142,6 @@ python exercise4.py
 
 <div align="center">
 
-**🎓 Part of Data Mining Course Exercises | بخشی از تمرینات درس داده‌کاوی**
+**🎓 Part of Data Mining Course Exercises | بخشی از تمرینات  داده‌کاوی**
 
 </div>
